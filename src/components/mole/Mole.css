@@ -8,3 +8,7 @@
   margin: 5px;
   cursor: pointer;
 }
+
+.Empty {
+  opacity: .01;
+}
